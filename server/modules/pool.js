@@ -1,9 +1,9 @@
-const pg = require('pg');
+const pg = require("pg");
 
 const pool = new pg.Pool({
-    host: 'localhost',
-    port: 5432,
-    database: 'full-stack-react', 
+	host: "localhost",
+	port: 5432,
+	database: "react-full-stack",
 });
 
 module.exports = pool;

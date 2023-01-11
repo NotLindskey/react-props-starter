@@ -1,4 +1,4 @@
--- CREATE DATABASE "full-stack-react";
+-- CREATE DATABASE "react-full-stack";
 
 -- Table structure
 CREATE TABLE creatures (
